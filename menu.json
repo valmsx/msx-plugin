@@ -6,8 +6,8 @@
   "items": [
     {
       "title": "Avvia Plugin",
-      "type": "plugin",
-      "url": "content:request:interaction:init@https://valmsx.github.io/msx-plugin/youtube-plugin.html"
+      "type": "menu",
+      "action": "content:request:interaction:init@https://valmsx.github.io/msx-plugin/youtube-plugin.html"
     }
   ]
 }
