@@ -1,0 +1,10 @@
+{
+  "type": "menu",
+  "headline": "YouTube Plugin",
+  "items": [
+    {
+      "title": "Cerca su YouTube",
+      "action": "plugin:https://valmsx.github.io/msx-plugin/youtube-plugin.html"
+    }
+  ]
+}
