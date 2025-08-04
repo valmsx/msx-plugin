@@ -1,11 +1,11 @@
 {
-  "provider_name": "YouTube Custom Search",
-  "provider_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg",
+  "provider_name": "Test Plugin MSX",
+  "provider_icon": "https://via.placeholder.com/48x48.png?text=MSX",
   "type": "menu",
-  "title": "Cerca YouTube",
+  "title": "Plugin Test",
   "items": [
     {
-      "title": "Avvia Ricerca",
+      "title": "Avvia Plugin",
       "type": "plugin",
       "url": "plugin:https://valmsx.github.io/msx-plugin/youtube-plugin.html"
     }
