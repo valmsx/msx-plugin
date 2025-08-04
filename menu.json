@@ -7,7 +7,7 @@
     {
       "title": "Avvia Ricerca",
       "type": "plugin",
-      "url": "https://valmsx.github.io/msx-plugin/youtube-plugin.html"
+      "url": "plugin:https://valmsx.github.io/msx-plugin/youtube-plugin.html"
     }
   ]
 }
