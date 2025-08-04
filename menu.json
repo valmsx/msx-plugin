@@ -7,7 +7,7 @@
     {
       "title": "Avvia Plugin",
       "type": "plugin",
-      "url": "plugin:https://valmsx.github.io/msx-plugin/youtube-plugin.html"
+      "url": "content:request:interaction:init@https://valmsx.github.io/msx-plugin/youtube-plugin.html"
     }
   ]
 }
