@@ -1,10 +1,13 @@
 {
+  "provider_name": "YouTube Custom Search",
+  "provider_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg",
   "type": "menu",
-  "headline": "YouTube Plugin",
+  "title": "Cerca YouTube",
   "items": [
     {
-      "title": "Cerca su YouTube",
-      "action": "plugin:https://valmsx.github.io/msx-plugin/youtube-plugin.html"
+      "title": "Avvia Ricerca",
+      "type": "plugin",
+      "url": "https://valmsx.github.io/msx-plugin/youtube-plugin.html"
     }
   ]
 }
